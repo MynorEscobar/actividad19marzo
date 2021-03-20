@@ -1,0 +1,27 @@
+#contenedor{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: cadetblue;
+  
+}
+
+.titulo1{
+    grid-column: 1/ span 3;
+    text-align: center;
+
+}
+
+.nombre1{
+    grid-column: 1/ span 3;
+    text-align: center;
+}
+
+.imagenes{
+    grid-column: 1/ span 3;
+    text-align: center;
+    
+}
+
+img{
+    width: 20%;
+}
