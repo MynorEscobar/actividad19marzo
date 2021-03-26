@@ -1,0 +1,51 @@
+.contenedor{
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: 100px 52px auto 50px;
+    margin: auto;
+}
+.logos{
+    grid-column: 1/ span 4;
+    background-color: white;
+}
+.logos> #img1{
+    padding: 15px;
+    width: 150px;
+    height: auto;
+}
+.logos> #img2{
+    width: 125px;
+    height: auto;
+}
+.menu{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    grid-column: 1 /span 4;
+    grid-row: 2;
+    color: whitesmoke;
+    font-family: times;
+    font-size: 19px;
+}
+.cuerpo{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    grid-column: 1 /span 4;
+    grid-row: 3;
+    color: #830202;
+    font-family: times;
+    font-size: 19px;
+}
+.pie{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    grid-column: 1 /span 4;
+    padding: 5px;
+    grid-row: 4;
+    color: white;
+    background-color: #830202;
+}
