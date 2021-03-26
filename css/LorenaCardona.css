@@ -1,0 +1,27 @@
+.encabezado{
+    display: flex;
+    justify-content: baseline;
+    width: 100%;
+    height: auto;
+    background-color: cyan;
+}
+img{
+    width: 10%;
+
+}
+.contenido1{
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    background-color: black;
+}
+.contenido2{
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+    text-align: center;
+    color: green;
+    
+}
