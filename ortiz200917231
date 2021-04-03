@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Título: Actividad  – GitHub</title>
+</head>
+<body>
+    <header class="emcabezado">
+        <center>
+            <img src="imagenes/logoefpem.png" alt="" >
+            <br>
+            <img src="imagenes/logousac.png" alt="" >
+        </center>
+    </header>
+
+    <section class="contenido1">
+        Actividad NO. 1
+    </section>
+    <section class="contenido2">
+        <h1> Nombre: Carlos Ortiz </h1>
+        Carné: 200917231
+    </section>    
+</body>
+</html>
