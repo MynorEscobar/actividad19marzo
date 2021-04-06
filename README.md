@@ -1,8 +1,12 @@
 <h1>Descripción del proyecto
-<b>Actividad del 19/03/2021</>
+Este repositorio corresponde a la actividad del 19/03/2021 de Git y GitHub del curso Diseño Web.
 
-Lista de trabajos
+Cada estudiante subio una página de acuerdo a las instrucciones dadas.
 
+## Importante:
+El archivo README.md se puede escribir utilizando HTML o la sintaxis de este tipo de archivos
+
+<h3> Ejemplo de Tabla con HTML</h3>
 <table>
     <thead>
         <tr>
@@ -30,6 +34,7 @@ Lista de trabajos
     </tbody>
 </table>
 
+###Ejemplo con viñetas
 
 - Uno
 - Dos
@@ -37,6 +42,7 @@ Lista de trabajos
 - Cuatro
 
 
+###Ejemplo de tabla
 
 | No | Nombre         | URL |
 | ------ | ------ | ------ |
@@ -45,7 +51,3 @@ Lista de trabajos
 
 
 
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
