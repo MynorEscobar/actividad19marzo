@@ -15,12 +15,12 @@ Lista de trabajos
         <tr>
             <td>1</td>
             <td>Austin Taquira</td>
-            <td><a href="AustinTaqira.html">Enlace</a></td>
+            <td><a href="AustinTaquira.html">Enlace</a></td>
         </tr>
         <tr>
             <td>2</td>
             <td>Hairon Sanchez</td>
-            <td><a href="haironsanches.html">Enlace</a></td>
+            <td><a href="haironsanchez.html">Enlace</a></td>
         </tr>
         <tr>
             <td>3</td>
