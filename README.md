@@ -1,4 +1,4 @@
-<h1>Descripción del proyecto
+<h1>Descripción del proyecto</h1>
 Este repositorio corresponde a la actividad del 19/03/2021 de Git y GitHub del curso Diseño Web.
 
 Cada estudiante subio una página de acuerdo a las instrucciones dadas.
