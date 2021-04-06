@@ -36,6 +36,13 @@ Lista de trabajos
 - Tres
 - Cuatro
 
-|No. |Nombre         |URL
-|1   |Lorena Cardona |URL
-|2   |Axel Xiloj     |URL
+|No |Nombre         |URL
+|1  |Lorena Cardona |URL
+|2  |Axel Xiloj     |URL
+
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
