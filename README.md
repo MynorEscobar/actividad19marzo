@@ -36,9 +36,11 @@ Lista de trabajos
 - Tres
 - Cuatro
 
-|No |Nombre         |URL
-|1  |Lorena Cardona |URL
-|2  |Axel Xiloj     |URL
+
+
+| No | Nombre         | URL |
+| 1  | Lorena Cardona | URL |
+| 2  | Axel Xiloj     | URL |
 
 
 
